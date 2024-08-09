@@ -2,6 +2,8 @@ Clone the project
 
 Install snowflake connector: 
 	pip install snowflake-connector-python
+ 
+Update username, password, account with your snowflakes credentials.
 
 To create snowflake environment, execute 'init_snowflake_environment' function:
   python3 main.py init_snowflake_environment
