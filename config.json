@@ -1,9 +1,9 @@
 {
     "snowflake":{
         "auth":{
-            "username":"<snowflakes_username>",
-            "password":"<snowflakes_password>",
-            "account":"<snowflakes_account>"
+            "username":"DILSHAN",
+            "password":"!QAZ2wsx",
+            "account":"pi65770.ap-south-1"
         },
         "tables":{
             "customer_lookup_table": "customer_lookup",
@@ -12,9 +12,9 @@
             "agg_customer_gender_count":"agg_customer_gender_count"
         },
         "configs":{
-            "warehouse_name": "poc_warehouse",
-            "database_name": "poc_database",
-            "schema_name": "poc_testschema",
+            "warehouse_name": "poc_warehouse_dilz",
+            "database_name": "poc_database_dilz",
+            "schema_name": "testschema_poc",
             "stream_customerlookup_insert":"stream_customerlookup_insert",
             "view_customerlookup_changes":"view_customerlookup_changes",
             "task_update_gender_count":"task_update_gender_count"
