@@ -1,3 +1,7 @@
+
+**Prerequisite**
+	Snowflake account
+ 	
 Clone the project
 
 Install snowflake connector: 
@@ -10,3 +14,8 @@ To create snowflake environment, execute 'init_snowflake_environment' function: 
 
 To test aggregate table update, excute 'test_task': _I will insert another 5000 records to Customer_lookup table_
   **python3 main.py test_task**
+
+
+https://docs.snowflake.com/en/developer-guide/python-connector/python-connector-install
+https://docs.snowflake.com/en/developer-guide/python-connector/python-connector-example
+https://docs.snowflake.com/en/sql-reference/commands-table
