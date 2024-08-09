@@ -5,7 +5,7 @@
 
 **Clone the project**
 
-	https://github.com/dilshan-1bt/snowflakes_poc.git
+	git clone  https://github.com/dilshan-1bt/snowflakes_poc.git
 
 **Install snowflake connector:**
 
